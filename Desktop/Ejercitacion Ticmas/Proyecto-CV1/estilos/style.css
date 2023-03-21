@@ -1,0 +1,72 @@
+header{
+	border-top: 10px solid #17a2b8!important;
+	padding: 20px;
+}
+
+img{
+	border-radius: 10px;
+	width: 270px;
+}
+
+a{
+     color: white;
+}
+
+i{
+	font-size: 95px;
+	border-radius: 5px;
+}
+nav{
+	text-align: center;
+}
+
+section{
+	padding: 20px;
+}
+
+footer{
+	color: black;
+	padding:12px;
+}
+
+b.pie{
+	color:rgb(104, 242, 222);
+}
+
+.card{
+	margin: 15px 0px;
+	border-radius: 20px;
+}
+
+@media screen and (min-width: 768px){
+     a.btn {
+    width: 70%;
+    margin: 20px 0px;
+    }
+}
+
+@media (min-width: 576px) {
+    a.btn2 {
+    width: 100%;
+    margin: 20px 0px;
+    }
+
+}
+
+@media only screen and (max-width: 768px) and (min-width: 200px)  {
+    
+     img.foto {
+      width: 150px;
+     }
+      
+     
+     #datos-personales  {
+          text-align: center;
+          margin-top: 15px;
+     }
+ 
+ }	
+
+ #piePagina{
+     color:rgb(104, 242, 222);
+ }
